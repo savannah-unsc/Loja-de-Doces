@@ -1,0 +1,44 @@
+body {font: normal 16pt century gothic; color:#000000;background-color: #FFF2F7;}
+
+.links-seta a span.seta-visivel
+{top: 10px;
+left: 10px;}
+
+.links-seta a span.texto
+{position:absolute;}
+
+.links-seta a span.seta
+{visibility: hidden;
+position:absolute;}
+
+.links-seta a:hover span.seta
+{visibility: visible;
+position: absolute;}
+
+.links-seta1 a span.seta-visivel
+{position: absolute;}
+
+.links-seta1 a span.texto
+{position:absolute;}
+
+.links-seta1 a span.seta
+{visibility: hidden;
+position:absolute;}
+
+.links-seta1 a:hover span.seta
+{visibility: visible;
+position: absolute;}
+
+.links-seta2 a span.seta-visivel
+{position: absolute;}
+
+.links-seta2 a span.texto
+{position:absolute;}
+
+.links-seta2 a span.seta
+{visibility: hidden;
+position:absolute;}
+
+.links-seta2 a:hover span.seta
+{visibility: visible;
+position: absolute;}
